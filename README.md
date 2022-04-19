@@ -1,2 +1,2 @@
-# How to Play
+# Connect Four
 Run the game directly from the AssCool_game.py file directly.
